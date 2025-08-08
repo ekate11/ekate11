@@ -1,4 +1,4 @@
-[![Header](https://github.com/ekate11/ekate11/blob/main/assets/Katsiaryna%20Davidovich.png)]()
+[![Header](https://github.com/ekate11/ekate11/blob/main/assets/KatsiarynaDavidovich.png)]()
 
 ## Motivated and adaptable Manual Tester with ISTQB certification and practical experience in test case creation and bug reporting. 
 
