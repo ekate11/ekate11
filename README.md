@@ -1,16 +1,15 @@
-## Hi there 👋
+[![Header](https://github.com/ekate11/ekate11/blob/main/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-05%20%D0%B2%2022.53.33.png)]()
 
-<!--
-**ekate11/ekate11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
 
-Here are some ideas to get you started:
+Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Testing documentation
+
+Checklists
+Test suites and Test cases
+Bug-reports
+SQL queries
+Postman Collections
+
+
